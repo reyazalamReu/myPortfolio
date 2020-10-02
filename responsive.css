@@ -1,0 +1,225 @@
+
+@media(max-width:1203px){
+    .item img {
+      
+        margin-left: 162px;
+      
+    }
+
+
+
+
+
+}
+
+
+
+@media(max-width:1199px){
+
+    textarea {
+      
+        width: 74%;
+    }
+
+    .life-right-text p {
+        
+        margin-left: 67px;
+    }
+
+}
+
+@media(max-width:1197px){
+    .item img {
+    
+        margin-left: 111px;
+       
+    }
+}
+
+
+@media(max-width:1093px){
+    button, input {
+      
+        width: 74%;
+    }
+}
+
+
+@media(max-width:1050px){
+    .item img {
+    
+        margin-left: 69px;
+    
+    }
+}
+
+
+
+@media(max-width:992px){
+    .life-right-text p {
+      
+        font-size: 15px;
+      
+        margin-left: 174px!important;
+        width: 360px;
+    }
+
+    .item img {
+    
+        margin-left: 156px;
+    
+    }
+
+
+}
+
+ @media(max-width:977px){
+
+    .life-right-text p {
+    
+        width: 267px!important;
+        font-size: 13px!important;
+    }
+ }
+
+
+
+
+
+
+@media(max-width:767px){
+
+    .life-right-text p {
+        width: 441px!important;
+        font-size: 16px!important;
+        margin-left: 0px!important;
+    }
+
+    .item img {
+        margin-left: 68px;
+    }
+
+
+
+}
+
+
+
+@media(max-width:670px){
+    .my-des{
+        margin-left: 2px; 
+        width: 471px;
+    }
+
+    .my-des p {
+      
+        font-size: 13px;
+      
+    }
+
+    .text {
+    
+        margin-left: -65px;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+@media(max-width:575px){
+    .last-progress h5 {
+        
+        left: 200px;
+      
+}
+
+    .item img {
+        margin-left: 40px;
+    }
+
+
+
+
+}
+
+
+
+
+@media(max-width:565px){
+    .text {
+      
+        margin-left: -71px;
+    }
+
+   
+
+    .text {
+        margin-left: -66px;
+        font-size: 31px;
+    }
+
+
+
+
+
+
+}
+
+ @media(max-width:530px){
+    .my-des h1 {
+        color: #e9ecefe8;
+        font-size: 25px;
+     
+    }
+
+    .my-des p {
+        font-size: 14px;
+        width: 377px;
+    }
+
+    .last-progress h5 {
+      
+        left: 156px;
+    
+    }
+
+    .motivate-text h1 {
+        
+        font-size: 23px;
+    }
+    .motivate-text h5 {
+      
+        font-size: 13px;
+    }
+
+
+
+
+ }
+
+
+
+ @media(max-width:505px){
+  
+    .item img {
+        margin-left: 11px;
+    }
+
+
+ }
+
+
+
+
+
+
+
+
+
+
